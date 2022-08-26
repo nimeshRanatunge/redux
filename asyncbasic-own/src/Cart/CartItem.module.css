@@ -1,0 +1,29 @@
+.cartitem {
+    background-color: #444444;
+    padding: 1.5rem 1rem;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
+.cartitem header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1rem;
+}
+
+.cartitem header div {
+    display: flex;
+    align-items: center;
+}
+
+.cartitem header div h3 {
+    font-style: italic;
+    font-weight: lighter;
+    margin-left: 0.5rem;
+}
+
+.cartitem section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
